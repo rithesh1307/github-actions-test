@@ -1,0 +1,31 @@
+name: rithesh
+age: 28
+address: 'xyz: abc'
+active: true
+Key:
+    key1: value1
+    key2: value2
+    key3: value3
+    key4:
+        Innerkey: innervalue1
+        Innerkey2: innnervalue2
+newjsonobject:
+    key: helo
+    key2: 'how are you'
+    key3: 'good day'
+    key4:
+        key4In: 'Its raining here'
+array:
+    - Item1
+    - Item2
+    - Item3
+    -
+        arraykey1: arrayvalue1
+arrayojects:
+    -
+        key11: value11
+        key12: value12
+    -
+        key22: value22
+        key21: valaue21
+multilinevalue: "abcd efgh\nijkl mnop\nqrst uvwx\n"
